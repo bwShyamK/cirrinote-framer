@@ -66,8 +66,9 @@ export default function Features() {
             Key Features
           </h3>
           <p className="max-w-[360px] mt-4 text-xl font-medium text-white/50">
-            We're proud to announce with the features that empower creatives
-            every day.
+            {
+              "We're proud to announce with the features that empower creatives every day."
+            }
           </p>
         </div>
 
